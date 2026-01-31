@@ -201,12 +201,9 @@ const filteredProjects =
         </div>
       </div>
             <p className="mt-4 text-lg text-zinc-700 dark:text-zinc-300 max-w-2xl">
-              Software Engineer building AI-powered, cloud-native systems. I work across building
-              event-driven microservices, and production ML (RAG, OCR for Computer Vision). Passionate about low-latency APIs,
-              reliable data pipelines, and beautiful, usable interfaces.
-              I design scalable, cloud-native systems integrating it with AI-powered automation. I have solid foundation on using React.js,
-              Node.js, Vue.js, Next.js, Bootstrap, CSS, HTML  for Front-end development and Python, Golang, Express.js, Spring Boot, Django, Fast API for Back-end development
-              on AWS/Azure, with solid DSA/Algo at the core.
+              A passionate coder and powerful programmer with 4 years of experience—a Software Engineer building AI-powered, cloud-native systems. 
+              I work across building event-driven microservices and production ML (RAG, OCR for Computer Vision), crafting efficient full-stack solutions using React.js, Node.js, Vue.js, Next.js, Bootstrap, CSS, HTML and Python, Golang, Java, Express.js, Spring Boot, Django, Fast API—blending AI agents into scalable systems. 
+              I thrive on low-latency APIs, beautiful interfaces, and designing cloud-native architectures that integrate AI-powered automation on AWS, Azure, and Google Cloud Platform, with solid DSA/Algo at the core.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Pill>Python</Pill>
@@ -217,7 +214,7 @@ const filteredProjects =
               <Pill>Kafka</Pill>
               <Pill>Docker</Pill>
               <Pill>Kubernetes</Pill>
-              <Pill>AWS / Azure</Pill>
+              <Pill>AWS / Azure / GCP</Pill>
               <Pill>React / Next.js</Pill>
               <Pill>Node.js</Pill>
             </div>
