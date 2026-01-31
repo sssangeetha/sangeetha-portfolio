@@ -201,7 +201,7 @@ const filteredProjects =
         </div>
       </div>
             <p className="mt-4 text-lg text-zinc-700 dark:text-zinc-300 max-w-2xl">
-              A passionate coder and powerful programmer with 4 years of experience—a Software Engineer building AI-powered, cloud-native systems. 
+              A passionate coder and proficient programmer with 4 years of experience—a Software Engineer building AI-powered, cloud-native systems. 
               I work across building event-driven microservices and production ML (RAG, OCR for Computer Vision), crafting efficient full-stack solutions using React.js, Node.js, Vue.js, Next.js, Bootstrap, CSS, HTML and Python, Golang, Java, Express.js, Spring Boot, Django, Fast API—blending AI agents into scalable systems. 
               I thrive on low-latency APIs, beautiful interfaces, and designing cloud-native architectures that integrate AI-powered automation on AWS, Azure, and Google Cloud Platform, with solid DSA/Algo at the core.
             </p>
